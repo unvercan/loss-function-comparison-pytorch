@@ -1,5 +1,4 @@
 # pytorch-loss-functions-comparison
-- Graduate Computer Vision project,
 - Comparison of common loss functions in PyTorch using MNIST dataset 
 
 Loss functions:
