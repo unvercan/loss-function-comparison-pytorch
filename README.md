@@ -1,10 +1,10 @@
 # pytorch-loss-functions-comparison
-- Comparison of common loss functions in PyTorch using MNIST dataset 
+- A comparison of common loss functions in PyTorch using MNIST dataset 
 
-Loss functions:
-- L1,
-- Mean Squared Error (MSE),
-- Negative Log Likelihood (NLL),
-- Cross Entropy Loss.
+## Loss functions:
+- L1
+- Mean Squared Error (MSE)
+- Negative Log Likelihood (NLL)
+- Cross Entropy Loss
 
-Best result: Cross Entropy Loss
+## Best result: Cross Entropy Loss
