@@ -1,5 +1,5 @@
-# pytorch-loss-functions-comparison
-- Comparison of common loss functions in PyTorch using MNIST dataset 
+# loss-function-comparison-pytorch
+- Comparison of common loss functions on MNIST dataset using in PyTorch. 
 
 ## Loss functions:
 - L1
